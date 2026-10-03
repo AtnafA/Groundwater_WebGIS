@@ -8,7 +8,8 @@ __Context:__ The system is implemented amidst challenges with dwindling water su
 __Capacity Building:__ The project is part of a broader effort involving different stakeholders to develop a, Water Ethiopia document strategic framework for managed groundwater development in the Greater Addis Ababa.<br>
 __Project Outputs:__
 The AAWSA_gDB data access interface provides (Figure Below): Groundwater information basemap (water well data layer), Water chemistry basemap (water quality data layer), Custom Map Layer  and Report generation function. The module provides an integrated interactive single window WebGIS interface that utilized Web technology to access spatial and non-spatial data from database and publish groundwater location and its information over WebGIS map layer. Moreover, the module also provides various well information, water quality data and Custom Map Layer (User demand based processed map layer) through interactive visualization map interface. This module serves as decision-support tools for a wide range of stakeholders in AAWSA, from managers, decision makers to water management professionals.
-![Uploading Login Screen.png…]()
+<img width="1865" height="870" alt="Login Screen" src="https://github.com/user-attachments/assets/2601f08a-34cc-48ad-a613-a17b85eb58dc" />
+
 __Water Well Data Layer:__
 <img width="1226" height="765" alt="image" src="https://github.com/user-attachments/assets/937c5dd3-580c-49e1-a158-6523f0728dc1" />
 
